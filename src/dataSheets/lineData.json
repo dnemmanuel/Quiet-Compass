@@ -1,0 +1,72 @@
+[
+    {
+      "title": "Write Blog Post about Project X",
+      "status": "In Progress",
+      "due_date": "2024-03-15",
+      "assigned_by": "John Smith",
+      "category": "Marketing"
+    },
+    {
+      "title": "Design Mockups for Mobile App",
+      "status": "To Do",
+      "due_date": "2024-03-22",
+      "assigned_by": "Jane Doe",
+      "category": "Design"
+    },
+    {
+      "title": "Implement User Authentication",
+      "status": "Blocked",
+      "due_date": "2024-03-29",
+      "assigned_by": "David Lee",
+      "category": "Development"
+    },
+    {
+      "title": "Test New Feature on Staging",
+      "status": "Completed",
+      "due_date": "2024-03-08",
+      "assigned_by": "Sarah Jones",
+      "category": "QA"
+    },
+    {
+      "title": "Prepare Presentation for Client Meeting",
+      "status": "To Do",
+      "due_date": "2024-03-12",
+      "assigned_by": "Michael Brown",
+      "category": "Sales"
+    },
+      {
+      "title": "Update Project Documentation",
+      "status": "In Progress",
+      "due_date": "2024-04-05",
+      "assigned_by": "John Smith",
+      "category": "Documentation"
+    },
+    {
+      "title": "Research Competitor Products",
+      "status": "To Do",
+      "due_date": "2024-03-25",
+      "assigned_by": "Jane Doe",
+      "category": "Market Research"
+    },
+    {
+      "title": "Fix Bug in Payment Gateway",
+      "status": "In Progress",
+      "due_date": "2024-03-18",
+      "assigned_by": "David Lee",
+      "category": "Development"
+    },
+    {
+      "title": "Review Test Cases",
+      "status": "Completed",
+      "due_date": "2024-03-01",
+      "assigned_by": "Sarah Jones",
+      "category": "QA"
+    },
+    {
+      "title": "Follow Up with Leads",
+      "status": "To Do",
+      "due_date": "2024-03-19",
+      "assigned_by": "Michael Brown",
+      "category": "Sales"
+    }
+  ]
