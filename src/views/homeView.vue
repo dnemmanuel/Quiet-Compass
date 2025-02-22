@@ -1,11 +1,21 @@
-<script>
-export default {
-    name: 'home'
-}
-</script>
-
 <template>
-    <div>
-        <h1 class="red-text">Hello</h1>
-    </div>  
+  <div>
+    <line />
+  </div>
 </template>
+
+<script>
+import lineData from "../dataSheets/lineData.json";
+import line from "../components/lineItem.component.vue";
+export default {
+  name: "home",
+
+  components: {
+    line,
+  },
+
+  data() {
+    return {};
+  },
+};
+</script>
