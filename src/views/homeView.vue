@@ -1,17 +1,17 @@
 <template>
   <div>
-    <line />
+    <lines />
   </div>
 </template>
 
 <script>
 import lineData from "../dataSheets/lineData.json";
-import line from "../components/lineItem.component.vue";
+import lines from "../components/lineItem.component.vue";
 export default {
   name: "home",
 
   components: {
-    line,
+    lines,
   },
 
   data() {
